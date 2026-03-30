@@ -6,21 +6,6 @@ A simple frontend project that fetches user data from a database and displays us
 - Estimated time until birthday
 - Latest drinks
 
-## Getting Started
-
-### Running the Project
-
-Open `frontend/index.html` directly in your browser, or serve it using a local HTTP server:
-
-```bash
-# Using npx (Node.js)
-npx serve frontend
-
-# Using Python
-python -m http.server 8000 -d frontend
-```
-
-Then visit `http://localhost:8000` (or the port shown).
 
 ## Project Structure
 
